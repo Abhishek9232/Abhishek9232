@@ -9,6 +9,10 @@
     <a href="https://leetcode.com/u/Abhishek9232/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
     <a href="https://www.geeksforgeeks.org/profile/abhishekkeskplq"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
   </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Abhishek9232&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </p>
 </div>
 
 ---
