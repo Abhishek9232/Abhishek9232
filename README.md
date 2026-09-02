@@ -30,6 +30,7 @@
 ### 🛠️ Languages & Tools
 
 #### 💻 Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,6 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🤖 Machine Learning & Data Science
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F79A3E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -45,6 +47,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 
 #### ⚙️ Web & Tools
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -55,13 +58,13 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🎓 **[Student Performance Predictor](https://github.com/Abhishek9232/Student-Performance-Predictor)** | Predicts student academic outcomes based on study habits and metrics | Python, Scikit-Learn, Streamlit |
-| 📈 **[Student Marks Prediction](https://github.com/Abhishek9232/student-marks-prediction)** | ML app to estimate exam performance and analytics | Python, ML, Streamlit |
-| 📚 **[Book Recommendation Chatbot](https://github.com/Abhishek9232/book-recommendation-using-chatbot)** | AI-assisted book discovery and recommendation engine | Python, NLP, Chatbot |
-| 💡 **[LeetCode Solutions](https://github.com/Abhishek9232/Leet-code-problems)** | Comprehensive collection of solved DSA and algorithmic challenges | Python, Java |
-| ✉️ **[Email Validation Script](https://github.com/Abhishek9232/Email-validation)** | Regular expression based email structure validator | Python, Regex |
+| Project                                                                                                 | Description                                                          | Tech Stack                      |
+| :------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------- | :------------------------------ |
+| 🎓 **[Student Performance Predictor](https://github.com/Abhishek9232/Student-Performance-Predictor)**   | Predicts student academic outcomes based on study habits and metrics | Python, Scikit-Learn, Streamlit |
+| 📈 **[Student Marks Prediction](https://github.com/Abhishek9232/student-marks-prediction)**             | ML app to estimate exam performance and analytics                    | Python, ML, Streamlit           |
+| 📚 **[Book Recommendation Chatbot](https://github.com/Abhishek9232/book-recommendation-using-chatbot)** | AI-assisted book discovery and recommendation engine                 | Python, NLP, Chatbot            |
+| 💡 **[LeetCode Solutions](https://github.com/Abhishek9232/Leet-code-problems)**                         | Comprehensive collection of solved DSA and algorithmic challenges    | Python, Java                    |
+| ✉️ **[Email Validation Script](https://github.com/Abhishek9232/Email-validation)**                      | Regular expression based email structure validator                   | Python, Regex                   |
 
 ---
 
